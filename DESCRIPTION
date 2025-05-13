@@ -1,0 +1,27 @@
+Package: cdiWG2WS
+Title: Words and Gestures to Words and Sentences Score Conversion
+Version: 0.1.2
+Authors@R: 
+    person(given = c("Trevor", "K.M."), family = "Day",
+            email = "trevor.day@georgetown.edu",
+            role = c("cre", "aut"),
+            comment = c(ORCID = "0000-0003-2911-8312"))
+Description: Convert MacArthur-Bates Communicative Development Inventory
+    Words and Gestures scores to would-be scores on Words
+    and Sentences, based on modeling from the
+    Stanford Wordbank <https://wordbank.stanford.edu/>.
+    See Day et al. (2024) <doi:10.31234/osf.io/rwhcy>.
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+LazyData: true
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2025-04-29 18:55:20 UTC; Trevor
+Author: Trevor K.M. Day [cre, aut] (ORCID:
+    <https://orcid.org/0000-0003-2911-8312>)
+Maintainer: Trevor K.M. Day <trevor.day@georgetown.edu>
+Repository: CRAN
+Date/Publication: 2025-05-13 08:40:09 UTC
