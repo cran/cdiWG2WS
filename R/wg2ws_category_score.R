@@ -24,6 +24,12 @@
 #' @importFrom stats predict
 #'
 #' @example man/examples/wg2ws_category_score.R
+#'
+#' @references
+#'  Day, T. K. M., Borovsky, A., Thal, D., & Elison, J. T. (2025).
+#'  Modeling Longitudinal Trajectories of Word Production With the CDI.
+#'  \emph{Developmental Science}, 28(4), e70036. \doi{10.1111/desc.70036}
+
 
 wg2ws_category_score <- function(wg_table, age = NA, WG_total = NA,
                                  verbose = FALSE) {

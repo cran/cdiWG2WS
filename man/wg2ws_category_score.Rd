@@ -42,3 +42,8 @@ wg_categories <- wg2ws_items(words)
 # Convert to WS score
 ws_categories <- wg2ws_category_score(wg_categories, age = 20)
 }
+\references{
+Day, T. K. M., Borovsky, A., Thal, D., & Elison, J. T. (2025).
+Modeling Longitudinal Trajectories of Word Production With the CDI.
+\emph{Developmental Science}, 28(4), e70036. \doi{10.1111/desc.70036}
+}

@@ -33,4 +33,10 @@ a category and whether to model age.
 }
 \examples{
 wg2ws_get_cat_function("time_words", age = TRUE)
+
+}
+\references{
+Day, T. K. M., Borovsky, A., Thal, D., & Elison, J. T. (2025).
+Modeling Longitudinal Trajectories of Word Production With the CDI.
+\emph{Developmental Science}, 28(4), e70036. \doi{10.1111/desc.70036}
 }

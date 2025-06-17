@@ -6,7 +6,7 @@
 \alias{cdiWG2WS-package}
 \title{cdiWG2WS: Words and Gestures to Words and Sentences Score Conversion}
 \description{
-Convert MacArthur-Bates Communicative Development Inventory Words and Gestures scores to would-be scores on Words and Sentences, based on modeling from the Stanford Wordbank \url{https://wordbank.stanford.edu/}. See Day et al. (2024) \doi{10.31234/osf.io/rwhcy}.
+Convert MacArthur-Bates Communicative Development Inventory Words and Gestures scores to would-be scores on Words and Sentences, based on modeling from the Stanford Wordbank \url{https://wordbank.stanford.edu/}. See Day et al. (2025) \doi{10.1111/desc.70036}.
 }
 \author{
 \strong{Maintainer}: Trevor K.M. Day \email{trevor.day@georgetown.edu} (\href{https://orcid.org/0000-0003-2911-8312}{ORCID})

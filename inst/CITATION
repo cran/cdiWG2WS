@@ -1,0 +1,14 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "Modeling Longitudinal Trajectories of Word Production With the CDI",
+  author   = c(person(c("Trevor", "K. M."), "Day"),
+               person("Arielle", "Borovsky"),
+               person("Donna", "Thal"),
+               person(c("Jed", "T."), "Elison")),
+  journal  = "Developmental Science",
+  year     = 2025,
+  volume   = 28,
+  number   = 4,
+  pages    = "e70036",
+  doi      = "10.1111/desc.70036"
+)

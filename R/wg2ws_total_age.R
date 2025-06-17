@@ -19,6 +19,10 @@
 #' wg2ws_total_age(200)
 #' wg2ws_total_age(200, age = 21)
 #'
+#' @references
+#'  Day, T. K. M., Borovsky, A., Thal, D., & Elison, J. T. (2025).
+#'  Modeling Longitudinal Trajectories of Word Production With the CDI.
+#'  \emph{Developmental Science}, 28(4), e70036. \doi{10.1111/desc.70036}
 
 wg2ws_total_age <- function(WG, age = NA) {
 
